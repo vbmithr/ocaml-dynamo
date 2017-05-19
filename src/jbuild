@@ -1,0 +1,5 @@
+(library
+ ((name        dynamo)
+  (public_name dynamo)
+  (modules (dynamo))
+  (libraries (ocplib-json-typed))))
